@@ -1,2 +1,2 @@
 # augmented-tbc-design
-https://commons-stack.github.io/augmented-tbc-design
+https://abc-demo.commonsstack.org
